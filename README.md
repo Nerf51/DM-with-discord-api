@@ -1,1 +1,2 @@
-Send private message using discord api and the user id.
+- Send private message using discord api and the user id.
+- Note: You must install old  version of fetch (for example 'npm install node-fetch@v2.0.3'). Otherwise script won't work properly.

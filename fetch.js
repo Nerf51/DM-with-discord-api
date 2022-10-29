@@ -24,7 +24,4 @@ async function sendMessage(id) {
   const finishFetching = await fetching.json();
   // console.log(finishFetching) to view request results
 }
-async function findMembers(guild, role){
-  
-}
 sendMessage("") //place here the user id
